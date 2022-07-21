@@ -18,8 +18,14 @@ Gravity-Stealth-Game
     The player has a detection meter that fills when in view of a drone, and will be immediately caught if touching one.
     The player can control gravity and move across different walls, giving them better chance at getting by obstacles and climbing up tall walls to get to the next exit.
     
+Hacking-Minigame
+    A hacking minigame made to be part of a larger game.
+    The player has to use provided characters to try to decode a passcode. There is difficulty and player skill stats that can be modified that change how hard the code will be to solve.
+    More skill removes some options from the letter pool, while more difficulty makes the passcode longer and harder to solve.
+    The game will only tell the player how many characters are correct or in the wrong spot, but not which they are, its up to the player to figure that out.
+
 Mining-Tile-Minigame
-    A mining/extracting minigame made ot be part of a larger game.
+    A mining/extracting minigame made to be part of a larger game.
     The player has limited attempts to uncover tiles so they can extract more resources.
     Each extraction diminishes the quality of adjacent tiles, so the goal is to reveal many high-value tiles before extracting.
 
