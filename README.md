@@ -20,9 +20,15 @@ Gravity-Stealth-Game
     
 Hacking-Minigame
     A hacking minigame made to be part of a larger game.
-    The player has to use provided characters to try to decode a passcode. There is difficulty and player skill stats that can be modified that change how hard the code will be to solve.
+    The player has to use provided characters to try to decode a passcode. There are difficulty and player skill stats that can be modified that change how hard the code will be to solve.
     More skill removes some options from the letter pool, while more difficulty makes the passcode longer and harder to solve.
     The game will only tell the player how many characters are correct or in the wrong spot, but not which they are, its up to the player to figure that out.
+
+Lockpick-Minigame
+    A lockpick minigame made to be part of a larger game.
+    The player has to use the cursor to find the correct spot and follow it around the lock until the two lines meet up and press a button to unlock it.
+    There are difficulty and player skill stats that can be modified that change how hard the lock will be to open. 
+    Higher difficulty means more combinations to open to unlock the lock, and higher skill gives you a larger buffer to get the correct point.
 
 Mining-Tile-Minigame
     A mining/extracting minigame made to be part of a larger game.
